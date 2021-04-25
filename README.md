@@ -76,7 +76,7 @@ python3 train_vgg.py
 To fine-tune layers added on top of a VGG-16 convolutional base;
 
 ```bash
-python3 Vgg_transfer_learning.py
+python3 train_vgg_transfer_learning.py
 ```
 If you want to train using a custom dataset, resize pictures to a 48*48 pixel size using /preprocess/data_resize.py.
 
