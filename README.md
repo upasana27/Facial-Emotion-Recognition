@@ -1,6 +1,6 @@
 # Facial Emotion Recognition Using Deep CNN'S
 This package presents an ensemble of trained CNN'S, to obtain a solution for the Kaggle FER-2013 Challenge: Challenges in Representation Learning. https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/overview 
-Testing accuracy obtained is 65.2%, as compared winning score of 71.1%.
+Testing accuracy obtained is 69%, as compared winning score of 71.1%.
 
 
 ## Prerequisites
